@@ -16,7 +16,7 @@ education:
   - name: Southeast University
     content: 1985 • 1991 • gravida nibh velvelit auctor alimo quet menean solli
 experience:
-  enable: true
+  enable: false
   title: Work Experience
   experience_list:
   - Best Writer Award
